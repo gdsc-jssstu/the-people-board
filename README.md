@@ -1,9 +1,9 @@
 # 🙋‍♂️ The-People-Board 🙋‍♀️
-Open source project for creating a people board where alumni, students, and job seekers of a university can meet and connect.
 
-## Project Structure
 The People Board is an open-source web development project to challenge the community to create a job/people board where alumni, students, and job seekers of a university can meet and connect.
 
+## Project Structure:
+- Backend? Frontend?
 
 ## Tech stack used:
 
