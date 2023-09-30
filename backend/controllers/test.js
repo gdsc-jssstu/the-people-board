@@ -7,6 +7,5 @@ const post = (req,res) => {
 }
 
 module.exports = {
-    get : get,
-    post : post
+    get, post 
 }
