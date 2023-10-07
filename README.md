@@ -64,7 +64,7 @@ To setup and run the backend, follow these steps:
 ## Final Vision/Guiding Designs of The Project
 
 - These are designs to help visualise and guide the development of the project. The final version of the project may or may not look like this. Creative freedom is encouraged.
-- Click [here](https://www.figma.com/) for the UI design and prototype of the project.
+- Click [here](https://www.figma.com/proto/BwXlUwg8bjiFsWj0uIhfpW/The-People-Board?node-id=1-2&starting-point-node-id=1%3A2&scaling=scale-down) for the UI design and prototype of the project.
 
 ## Intended Final Project
 
@@ -73,3 +73,4 @@ To setup and run the backend, follow these steps:
 ## Maintainers
 
 - [Sayed Afnan Khazi](https://github.com/Sayed-Afnan-Khazi)
+- [Syed Hisham Akmal](https://github.com/sikehish)
