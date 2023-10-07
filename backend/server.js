@@ -14,7 +14,7 @@ const db = require('knex')({
 });
 
 // Connecting our controllers
-const test = require('./controllers/test');
+const example = require('./controllers/example');
 
 const app = express();
 
@@ -24,9 +24,9 @@ app.use(express.json());
 
 // Routes
 
-app.get('/test/get', (req, res) => { test.get(req,res) });
+app.get('/example/get', (req, res) => { example.get(req,res) });
 
-app.post('/test/post', (req, res) => { test.post(req,res) });
+app.post('/example/post', (req, res) => { example.post(req,res) });
 
 
 // Running our backend API on port 5000
