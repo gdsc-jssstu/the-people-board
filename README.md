@@ -70,6 +70,14 @@ To setup and run the backend, follow these steps:
 
  A responsive and aesthetically designed people board that displays cards with people's contact information. The board also has a search feature where users can search for specific individuals on the board. The website also allows users to add/remove themselves into/from the board and update their profiles on the board.
 
+## Contributors
+
+<a href="https://github.com/gdsc-jssstu/the-people-board/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=gdsc-jssstu/the-people-board" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
 ## Maintainers
 
 - [Sayed Afnan Khazi](https://github.com/Sayed-Afnan-Khazi)
